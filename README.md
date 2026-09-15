@@ -8,6 +8,7 @@ This a repo that have the solution of leecode problems
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ This a repo that have the solution of leecode problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
