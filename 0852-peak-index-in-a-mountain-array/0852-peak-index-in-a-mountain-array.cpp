@@ -12,6 +12,6 @@ public:
             }
             m = s + (e-s)/2;
         } 
-        return m;  
+        return s;  
    }
 };
