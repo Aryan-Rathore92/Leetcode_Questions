@@ -10,6 +10,7 @@ This a repo that have the solution of leecode problems
 | [0015-3sum](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0075-sort-colors) |
+| [0724-find-pivot-index](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -42,4 +43,8 @@ This a repo that have the solution of leecode problems
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
