@@ -38,14 +38,14 @@ public:
         // copying characters of one string to another string
         for(int i=0; i < s.length(); i++){
             if(validCh(s[i])){
-                temp.push_back(s[i]);
+                temp.push_back(toLoweCase(s[i]));
             }
         }
         
         // convert all characters in lowercase
-        for(int i=0; i<temp.length(); i++){
-             temp[i] = toLoweCase(temp[i]);
-        }
+        // for(int i=0; i<temp.length(); i++){
+        //      temp[i] = toLoweCase(temp[i]);
+        // }
 
         // check palindrome or not
         return ValidPalindrome(temp);
