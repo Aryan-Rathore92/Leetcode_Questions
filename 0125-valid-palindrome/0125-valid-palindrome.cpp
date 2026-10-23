@@ -8,11 +8,10 @@ private:
     }
 
     char toLoweCase(char ch){
-       if( (ch >= 'a' && ch <= 'z') || (ch >= '0' && ch <= '9')){
+       if( (ch >= 'a' && ch <= 'z')){
         return ch;
        }else{
-        int temp = ch - 'A' + 'a';
-        return temp;
+        return ch - 'A' + 'a';
        }
     }
 
