@@ -27,8 +27,6 @@ public:
             if(arr1[i] != arr2[i]){
                 ans = false;
                 return ans;
-            }else{
-                ans = true;
             }
         }
        return ans;
