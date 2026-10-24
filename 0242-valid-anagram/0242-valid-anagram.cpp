@@ -22,13 +22,11 @@ public:
 
          arr1 = checkValidAnagram(s,arr1);
          arr2 = checkValidAnagram(t, arr2);
-        int ans = true;
         for(int i=0; i<26; i++){
             if(arr1[i] != arr2[i]){
-                ans = false;
-                return ans;
+                return false;
             }
         }
-       return ans;
+       return true;
     }
 };
