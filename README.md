@@ -23,6 +23,7 @@ This a repo that have the solution of leecode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ This a repo that have the solution of leecode problems
 | [0015-3sum](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Quicksort
 |  |
@@ -87,5 +89,6 @@ This a repo that have the solution of leecode problems
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
