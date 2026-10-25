@@ -91,4 +91,13 @@ This a repo that have the solution of leecode problems
 | [0125-valid-palindrome](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
