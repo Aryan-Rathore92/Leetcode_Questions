@@ -24,6 +24,7 @@ This a repo that have the solution of leecode problems
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ This a repo that have the solution of leecode problems
 | [0189-rotate-array](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ This a repo that have the solution of leecode problems
 | [0125-valid-palindrome](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -100,4 +103,8 @@ This a repo that have the solution of leecode problems
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
