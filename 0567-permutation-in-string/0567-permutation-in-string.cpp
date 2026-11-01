@@ -32,13 +32,13 @@ public:
         if(checkEqual(count1, count2)) return 1;
 
         while ( i < s2.length()){
-            char newChar = s2[i];
+            char newChar = s2[i]; // that holding next char address
             int index = newChar - 'a';
             count2[index]++;
 
-            char oldChar = s2[i-windowSize];
+            char oldChar = s2[i-windowSize];// that holding index of first removing char
             index = oldChar - 'a';
-            count2[index]--;
+            count2[index]--; // that is doing convert 1 into again 0
 
             i++;
 
