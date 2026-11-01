@@ -94,10 +94,12 @@ This a repo that have the solution of leecode problems
 | [0242-valid-anagram](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
