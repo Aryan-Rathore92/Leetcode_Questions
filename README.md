@@ -10,6 +10,7 @@ This a repo that have the solution of leecode problems
 | [0015-3sum](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0189-rotate-array) |
@@ -106,9 +107,14 @@ This a repo that have the solution of leecode problems
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Aryan-Rathore92/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
